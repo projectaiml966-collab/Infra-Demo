@@ -1,0 +1,1 @@
+export default function Brand({compact=false}){return <div className="brand"><div className="brandMark"><span>J</span></div>{!compact&&<div><strong>JAKSON</strong><small>ProcureFlow 360</small></div>}</div>}

@@ -1,0 +1,15 @@
+README.md
+index.html
+package.json
+src/App.jsx
+src/components/Brand.jsx
+src/components/Header.jsx
+src/components/Sidebar.jsx
+src/components/UI.jsx
+src/data/mock.js
+src/main.jsx
+src/pages/Dashboard.jsx
+src/pages/Generic.jsx
+src/pages/Projects.jsx
+src/pages/Workflow.jsx
+src/styles.css
